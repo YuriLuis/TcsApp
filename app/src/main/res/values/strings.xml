@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">OpenCV</string>
+    <string name="app_name">Projeto TCS</string>
+    <string name="title_CaptureActivit">Detectar...</string>
+    <string name="title_CaptureActivit2">Outro</string>
+    <string name="lblOpcao">Detecção de Objetos - Algoritmo ORB</string>
+    <string name="lblOK">OK</string>
+    <string name="lblCancel">Cancelar</string>
 </resources>
